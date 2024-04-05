@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body>div{
+    margin-left: 307px;
+    margin-top: 262px;
+}
+.cajaPadre{
+    width: 700px;
+    height: 300px;
+    border-radius: 100px;
+    padding: 3px;
+    background-color: rgb(142, 196, 146);
+
+}
+.contenedor{
+    width: 500px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 5px;
+    background-color: white;
+}
+div>div{
+    width:500px ;
+    height: 28px;
+    border-radius: 100px;
+    background-color: rgb(194, 123, 137);
+    border: 1px solid black;
+    
+    
+    
+}
+.diez{
+    width: 10%;
+    padding-left: 3px;
+}
+.veinti{
+    width: 25%;
+    padding-left: 3px;
+}
+.cincuenta{
+    width: 50%;
+    padding-left: 3px;
+}
+.setenta{
+    width: 75%;
+    padding-left: 3px;
+}
+.noventa{
+    width: 90%;
+    padding-left: 3px;
+}
+h1{
+    padding-left: 201px;
+    margin-top: 19px;
+}
+

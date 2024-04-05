@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body>div{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px 20px 0 0;
+}
+.caja{
+    background-color: brown;
+    width: 500px;
+    height: 700px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px #999898;
+}
+h1{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    color: white;
+    margin-left: 57px;
+    margin-top: 18px;
+    margin-bottom: 20px;
+}
+ul{
+    margin-left: 53px;
+}
+ul>li{
+    display: inline;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: brown;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    font-size: 15px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 186px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.precio{
+    padding-left: 214px;
+}
+p{
+    font-size: 18px;
+    color: white;
+    padding-left: 37px;
+    
+}
+h3{
+    font-size:30px; 
+    color: white;
+    padding-left: 184px;
+    margin-bottom: 23px;
+}
+
+.comprar{
+    display: inline;
+    border: 1px solid black;
+    border-radius: 32px;
+    padding-left: 20px;
+    font-size: 20px;
+    background-color: black;
+    padding-right: 20px;
+    padding-top: 3px;
+}
+div> a{
+    margin-left: 172px;
+    margin-top: 5px;
+}
+

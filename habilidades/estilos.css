@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+body>div{
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.caja{
+    width: 250px;
+    height: 208px;
+    margin: 58px;
+    padding: 15px;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 220px;
+}
+ul>li {
+    height: 43px;
+    width: 208px;
+    padding: 5px;
+    list-style-type: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin: 5px;
+    
+}
+.cajacurso{
+    font-size: 20px;
+    padding-left:5px;
+    padding-top: 11px;
+}
+a{
+    text-decoration: none;
+    color:black ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight:700;
+}
+p{
+    font-size: 10px;
+    color: #818181;
+}
+h1{
+    font-size: 15px;
+    padding-left: 12px;
+}
+.rojo{
+    border-left: 2px solid red;
+}
+.violeta{
+    border-left: 2px solid violet;
+}
+.naranja{
+    border-left: 2px solid orange;
+}

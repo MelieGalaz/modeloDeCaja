@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bandera{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bandera div{
+    height: 33.33%;
+}
+.franja-blanca{
+    background-color: #fff;
+    
+}
+.franja-celeste{
+    background-color: #75aadb; 
+    
+}
+.franja-rojo{
+    background-color:red;
+}
+.franja-negro{
+    background-color:black; 
+
+}
+.franja-amarillo{
+    background-color:yellow; 
+    
+}
+.franja-verde{
+    background-color:green;
+    
+}
+
+
+.franja-azul{
+    background-color: blue;
+}
+.bandera-vertical{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction:row;
+}
+.bandera-vertical div{
+    width: 33.33%;
+    height: 100%;
+}
+body > div{
+    margin: 20px;
+    border: 2px solid black;
+
+}
+
+
+
+

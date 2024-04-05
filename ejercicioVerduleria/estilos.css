@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(118, 219, 152);
+
+}
+
+.caja{
+    width: 400px;
+    height: 350px;
+    margin: 58px;
+    padding: 15px;
+    margin-left: 417px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 220px;
+}
+.titulo{
+    font-size: 30px;
+    padding-left: 110px;
+}
+.titulo2{
+    font-size: 25px;
+    padding-left: 28px;
+}
+.listafrutas{
+    font-size: 20px;
+    padding-left:78px;
+    padding-top: 20px;
+    
+}
+ul>li {
+    height: 33px;
+    width: 208px;
+    padding: 2px;
+    list-style-type: none;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    margin: 5px;
+    
+}
+a{
+    text-decoration: none;
+    color:black ;
+    padding-left: 40px;
+}
